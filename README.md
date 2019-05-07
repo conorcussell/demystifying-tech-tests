@@ -15,7 +15,7 @@ You will typically have a few days to complete most of these tests so do not exp
 * [Tic Tac Toe](./tech-tests/take-home/tictactoe.md)
 * [iTunes - Front End](./tech-tests/take-home/frontend.md)
 
-## Pairing Exercise
+## Pairing Exercise
 
 Other companies might choose to do a pairing exercise with you either remotely or in person where you will work through a short problem with a developer. This might be a standalone exercise (like a kata or koan similar to the one you see below) or working on a small part of their codebase. Most of the time, the other developer is only there to observe you or answer any questions if you are stuck.
 
