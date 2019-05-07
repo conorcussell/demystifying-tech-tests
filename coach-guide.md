@@ -1,4 +1,4 @@
-# Coach Guide
+# Coach Guide
 
 Your role is to ensure that the student has a clearer understanding of what to expect during a programming interview and how they should approach either a take home tech test or pairing interview.
 
@@ -25,7 +25,7 @@ These are some general best practices to encourage your students to do during th
 7. Include a README - your documentation should include what your code will do, how to run your code and the technologies you've used. You can also talk about the problems you ran into, why you took the approach you did, what you might do differently or additionally if you had more time.
 8. The final result should be easy to run and/or follow. Someone should not have to execute 10 different commands/steps to get your code running on their machine. 
 
-### Additional tips for Pairing Interview
+### Additional tips for Pairing Interview
 
 1. Make sure you understand what the problem is before beginning to 'code bash'. Take your time to read and understand what you are expected to do and feel free to ask questions to clarify any doubts you might have.
 2. Communicate! Pairing interviews are intended for companies to see how you think and problem solve. Try and constantly be talking through your steps and the reasons you are doing one thing over the other.
